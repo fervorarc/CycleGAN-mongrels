@@ -1,0 +1,1 @@
+0,100,(<tf.Tensor: shape=(), dtype=float32, numpy=1.4153892>, <tf.Tensor: shape=(), dtype=float32, numpy=1.2600744>, <tf.Tensor: shape=(), dtype=float32, numpy=0.6527535>, <tf.Tensor: shape=(), dtype=float32, numpy=0.6709872>)
